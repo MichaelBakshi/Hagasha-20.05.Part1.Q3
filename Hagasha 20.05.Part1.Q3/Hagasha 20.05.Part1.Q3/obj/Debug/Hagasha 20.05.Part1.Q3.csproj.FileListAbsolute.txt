@@ -1,0 +1,7 @@
+C:\Users\Michael\source\repos\Hagasha 20.05.Part1.Q3\Hagasha 20.05.Part1.Q3\bin\Debug\Hagasha 20.05.Part1.Q3.exe.config
+C:\Users\Michael\source\repos\Hagasha 20.05.Part1.Q3\Hagasha 20.05.Part1.Q3\bin\Debug\Hagasha 20.05.Part1.Q3.exe
+C:\Users\Michael\source\repos\Hagasha 20.05.Part1.Q3\Hagasha 20.05.Part1.Q3\bin\Debug\Hagasha 20.05.Part1.Q3.pdb
+C:\Users\Michael\source\repos\Hagasha 20.05.Part1.Q3\Hagasha 20.05.Part1.Q3\obj\Debug\Hagasha 20.05.Part1.Q3.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\Hagasha 20.05.Part1.Q3\Hagasha 20.05.Part1.Q3\obj\Debug\Hagasha 20.05.Part1.Q3.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\Hagasha 20.05.Part1.Q3\Hagasha 20.05.Part1.Q3\obj\Debug\Hagasha 20.05.Part1.Q3.exe
+C:\Users\Michael\source\repos\Hagasha 20.05.Part1.Q3\Hagasha 20.05.Part1.Q3\obj\Debug\Hagasha 20.05.Part1.Q3.pdb
